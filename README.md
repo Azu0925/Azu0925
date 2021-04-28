@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+---
+
 <p align="center">
   <a href="https://twitter.com/yamaneko717"> 
     <img src="https://img.shields.io/static/v1?label=&message=Azu0925&color=blue&style=flat-square&logo=twitter&logoColor=white">
