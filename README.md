@@ -13,13 +13,9 @@
     <img src="https://img.shields.io/static/v1?label=&message=yamaneko717&color=55C500&style=flat-square&logo=qiita&logoColor=white">
   </a> 
   <a href="https://discord.com/app"><img src="https://img.shields.io/static/v1?label=&message=%C3%80%C5%BCu%238065&color=6F85D3&style=flat-square&logo=discord&logoColor=white"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Azu0925&show_icons=true&theme=dark&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azu0925&theme=dark&langs_count=10&layout=compact" />
-  </a>
-</p>
+</p>  
+
+[![](https://raw.githubusercontent.com/Azu0925/Azu0925/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Azu0925/Azu0925/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Azu0925/Azu0925/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Azu0925/Azu0925/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Azu0925/Azu0925/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <p align="center"><img src="./img/cat.png" height="400px"></p>
