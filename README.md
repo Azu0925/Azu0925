@@ -9,7 +9,7 @@
   <a href="https://www.youtube.com/channel/UCXM4HmDV9zZEQRYhGw3p3Cg">
     <img src="https://img.shields.io/static/v1?label=&message=%C3%80%C5%BCu(%E3%81%82%E3%81%9A)&color=red&style=flat-square&logo=Youtube&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/azu_azu_0925">
+  <a href="https://www.instagram.com/azu_azu_0925/">
     <img src="https://img.shields.io/static/v1?label=&message=azu_azu_0925&color=ff69b4&style=flat-square&logo=instagram&logoColor=white">
   </a> 
   <a href="https://qiita.com/yamaneko717">
