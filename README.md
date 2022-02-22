@@ -15,6 +15,9 @@
   <a href="https://qiita.com/yamaneko717">
     <img src="https://img.shields.io/static/v1?label=&message=yamaneko717&color=55C500&style=flat-square&logo=qiita&logoColor=white">
   </a> 
+  <a href="https://zenn.dev/azu0925">
+    <img src="https://img.shields.io/static/v1?label=&message=azu0925&color=3FA8FF&style=flat-square&logo=zenn&logoColor=white">
+  </a>
   <a href="https://discord.com/app"><img src="https://img.shields.io/static/v1?label=&message=%C3%80%C5%BCu%238065&color=6F85D3&style=flat-square&logo=discord&logoColor=white"></a>
 </p>  
 
