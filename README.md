@@ -20,8 +20,15 @@
   </a>
   <a href="https://discord.com/app"><img src="https://img.shields.io/static/v1?label=&message=azu0925&color=6F85D3&style=flat-square&logo=discord&logoColor=white"></a>
 </p>  
-
-[![](https://raw.githubusercontent.com/Azu0925/Azu0925/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Azu0925/Azu0925/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Azu0925/Azu0925/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Azu0925/Azu0925/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Azu0925/Azu0925/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Azu0925/Azu0925/main/profile-summary-card-output/dracula/0-profile-details.svg">
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Azu0925/Azu0925/main/profile-summary-card-output/dracula/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/Azu0925/Azu0925/main/profile-summary-card-output/dracula/2-most-commit-language.svg">
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Azu0925/Azu0925/main/profile-summary-card-output/dracula/3-stats.svg">
+  <img src="https://raw.githubusercontent.com/Azu0925/Azu0925/main/profile-summary-card-output/dracula/4-productive-time.svg">
+</div>
 <p align="center"><img src="./img/cat.png" height="400px"></p>
