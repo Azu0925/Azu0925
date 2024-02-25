@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://twitter.com/yamaneko717"> 
-    <img src="https://img.shields.io/static/v1?label=&message=yamaneko717&color=blue&style=flat-square&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/static/v1?label=&message=yamaneko717&color=black&style=flat-square&logo=x&logoColor=white">
   </a> 
   <a href="https://www.youtube.com/channel/UCXM4HmDV9zZEQRYhGw3p3Cg">
     <img src="https://img.shields.io/static/v1?label=&message=%C3%80%C5%BCu(%E3%81%82%E3%81%9A)&color=red&style=flat-square&logo=Youtube&logoColor=white">
